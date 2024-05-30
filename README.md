@@ -1,4 +1,4 @@
-Description Ce projet consiste en la conception et la création d'une page d'atterrissage pour Simplon Sénégal, visant à gérer efficacement son identité numérique. La page d'atterrissage est conçue pour offrir une expérience utilisateur soignée et conforme aux principes ergonomiques. Le projet utilise les langages HTML et CSS pour l'implémentation de l'interface utilisateur.
+Description Ce projet consiste en la conception et l'integration d'une maquette et la création d'une page responsive . Le projet utilise les langages HTML et CSS pour l'implémentation de l'interface utilisateur.
 
 Maquette La maquette de la page d'atterrissage est disponible ici. Assurez-vous de consulter cette maquette pour obtenir des indications sur la conception visuelle et la disposition des éléments.
 
