@@ -217,17 +217,17 @@ button {
     cursor: pointer;
 }
 
-@media(max-width: 600px){
+@media(max-width: 400px){
 body {
-    width: 600px ;
+    width: 400px ;
     background-color: var(--primary);
    overflow-x: hidden;
    
 }
 header,main{
-    width: 500px;
-    margin-left: auto;
-    margin-right: auto;
+    width: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .navbar {
@@ -235,7 +235,7 @@ header,main{
     justify-content: space-between;
     align-items: center;
     color: var(--fist);
-    width: 500px;
+    width: 300px;
 }
 .logo{
     display: flex;
@@ -243,11 +243,11 @@ header,main{
     
 }
 .logo img{
-    width: 50px;
+    width: 30px;
     height: 30px;
 }
 .logo p{
-    font-size: 8px;
+    font-size: 7px;
 }
 #after-header {
     display: flex;
@@ -259,7 +259,7 @@ header,main{
 
 nav ul{
     display: flex;
-    gap: 10px;
+    gap: 20px;
     list-style-type: none;
     width: 170px;
     
@@ -267,6 +267,7 @@ nav ul{
 nav ul li a{
     color: var(--fist);
     font-size: 20px;
+    margin-left: 15px;
     
 }
 .logo{
@@ -281,7 +282,7 @@ nav ul li a{
     width: 20px;
 }
 .img-section2 img{
-    width: 400px;
+    width: 300px;
 }
 .text-erea{
     margin-top: 10px;
@@ -343,7 +344,7 @@ span{
 .third-right{
     background-color:var(--third);
     margin-bottom: 25px;
-    width: 50px;
+    width: 400px;
     padding:15px; 
     height: 40px;
 }
@@ -361,7 +362,7 @@ form{
  .footer-cnt{
     display: flex;
     justify-content: space-between;
-    width: 80px;
+    width: 70px;
     margin-left: auto;
     margin-right: auto;
  }
